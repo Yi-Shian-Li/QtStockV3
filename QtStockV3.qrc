@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/QtStockV3">
+        <file>src/icon/icon_collect-01.png</file>
+        <file>src/icon/icon_collect-02.png</file>
+        <file>src/icon/icon_collect-03.png</file>
+        <file>src/icon/icon_collect-04.png</file>
+        <file>src/icon/icon_collect-05.png</file>
+        <file>src/icon/icon_collect-06.png</file>
+        <file>src/icon/icon_collect-07.png</file>
+        <file>src/icon/icon_collect-11.png</file>
+        <file>src/icon/icon_collect-12.png</file>
+        <file>src/icon/icon_collect-15.png</file>
+        <file>src/icon/icon_collect-16.png</file>
+        <file>src/icon/icon_collect-17.png</file>
+        <file>src/icon/icon_collect-18.png</file>
+        <file>src/icon/icon_collect-19.png</file>
+        <file>src/icon/icon_collect-20.png</file>
+        <file>src/icon/menu-burger.png</file>
+        <file>src/icon/search.png</file>
+    </qresource>
+</RCC>
